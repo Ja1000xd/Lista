@@ -56,6 +56,9 @@ http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6484
 #EXTINF:0,Comedy Central
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/778
+#EXTINF:0,Comedy Tv
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6374
 #EXTINF:0,Distrito Comedia
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/796
@@ -74,6 +77,18 @@ http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8508
 #EXTINF:0,MTV Hits
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8511
+#EXTINF:0,Telehit +
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8509
+#EXTINF:0,Telehit Urbano
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8512
+#EXTINF:0,HTV
+#EXTGRP:unsorted
+http://ingrid.ltd:25461/Gilberto1/Gilberto/19435
+#EXTINF:0,QMMI
+#EXTGRP:unsorted
+http://ingrid.ltd:25461/Gilberto1/Gilberto/31576
 #EXTINF:0,VH1
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/866
@@ -89,18 +104,27 @@ http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8450
 #EXTINF:0,Discovery Home and Health
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/792
+#EXTINF:0,Glitz
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/822
 #EXTINF:0,Fashion One
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9728
 #EXTINF:0,El Gourmet
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/805
-#EXTINF:0,Food Network
-#EXTGRP:unsorted
-http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8451
 #EXTINF:0,FOX LIFE
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/379
+#EXTINF:0,Food Network
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8451
+#EXTINF:0,Pasiones
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4907
+#EXTINF:0,Tlnovelas
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4886
 #EXTINF:0,CARTOON NETWORK
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/779
@@ -128,6 +152,9 @@ http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/858
 #EXTINF:0,Discovery Kids
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8461
+#EXTINF:0,Universal Kids
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/418
 #EXTINF:0,ZooMoo
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1889
@@ -140,6 +167,9 @@ http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/58
 #EXTINF:0,EWTN
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7188
+#EXTINF:0,SonLife
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8844
 #EXTINF:0,TNT
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/854
@@ -148,7 +178,7 @@ http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/854
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/775
 #EXTINF:0,SPACE
 #EXTGRP:unsorted
-http://zufreelist.net:8080/zutvondemannueva/Kl1F5AGT6C/493
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/846
 #EXTINF:0,Golden
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8476
@@ -203,6 +233,15 @@ http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8481
 #EXTINF:0,Fox Sports 3
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/813
+#EXTINF:0,MLB network
+#EXTGRP:unsorted
+http://ingrid.ltd:25461/Gilberto1/Gilberto/12211
+#EXTINF:0,NFL Network
+#EXTGRP:unsorted
+http://ingrid.ltd:25461/Gilberto1/Gilberto/11545
+#EXTINF:0,NBA tv
+#EXTGRP:unsorted
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41386
 #EXTINF:0,ESPN
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8483
@@ -218,12 +257,18 @@ http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/800
 #EXTINF:0,ESPN U
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/803
+#EXTINF:0,UFC
+#EXTGRP:unsorted
+http://ingrid.ltd:25461/Gilberto1/Gilberto/16749
 #EXTINF:0,CSN SPORTS
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/529
 #EXTINF:0,Golf Channel
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/442
+#EXTINF:0,TNT Sports
+#EXTGRP:unsorted
+http://ingrid.ltd:25461/Gilberto1/Gilberto/23886
 #EXTINF:0,CLARO Sports
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8474
@@ -278,12 +323,15 @@ http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/783
 #EXTINF:0,UNIVISION
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8947
+#EXTINF:0,AL Jazeera
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8497
 #EXTINF:0,RT en Español
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8493
 #EXTINF:0,Telemundo
 #EXTGRP:unsorted
-http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8859
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5580
 #EXTINF:0,Telesur
 #EXTGRP:unsorted
 http://ingrid.ltd:25461/Gilberto1/Gilberto/31563
@@ -302,30 +350,54 @@ http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8498
 #EXTINF:0,TV Azteca - HONDURAS
 #EXTGRP:unsorted
 http://ingrid.ltd:25461/Gilberto1/Gilberto/40290
+#EXTINF:0,Azteca uno
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8436
 #EXTINF:0,Multimedios
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8445
+#EXTINF:0,TVE
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4894
+#EXTINF:0,DW
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8504
+#EXTINF:0,Tv Familia
+#EXTGRP:unsorted
+http://ingrid.ltd:25461/Gilberto1/Gilberto/43121
 #EXTINF:0,REPRETEL 11
 #EXTGRP:unsorted
 http://ingrid.ltd:25461/Gilberto1/Gilberto/42649
+#EXTINF:0,RCN
+#EXTGRP:unsorted
+http://ingrid.ltd:25461/Gilberto1/Gilberto/41544
 #EXTINF:0,Canal 4 PANAMA
 #EXTGRP:unsorted
 http://ingrid.ltd:25461/Gilberto1/Gilberto/42609
 #EXTINF:0,Canal 14 NICARAGUA
 #EXTGRP:unsorted
 http://ingrid.ltd:25461/Gilberto1/Gilberto/40885
+#EXTINF:0,Tv Globo
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5151
 #EXTINF:0,Canal 19  EL SALVADOR
 #EXTGRP:unsorted
 http://ingrid.ltd:25461/Gilberto1/Gilberto/23990
 #EXTINF:0,Antena 3
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1371
+#EXTINF:0,Telefe
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4889
 #EXTINF:0,Azmundo
 #EXTGRP:unsorted
 http://ingrid.ltd:25461/Gilberto1/Gilberto/19493
 #EXTINF:0,Canal del Congreso
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8499
+#EXTINF:0,NASA
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6342
 #EXTINF:0,CNN
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8489
@@ -344,9 +416,15 @@ http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10184
 #EXTINF:0,EURO Channel
 #EXTGRP:unsorted
 http://ingrid.ltd:25461/Gilberto1/Gilberto/18274
-#EXTINF:0,NBC
+#EXTINF:0,My 50
 #EXTGRP:unsorted
-http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5490
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5549
+#EXTINF:0,Fox 32 Chicago
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5738
+#EXTINF:0,NBC 5
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5549
 #EXTINF:0,HLN
 #EXTGRP:unsorted
 http://ingrid.ltd:25461/Gilberto1/Gilberto/18839
@@ -361,13 +439,13 @@ http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5738
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5101
 #EXTINF:0,FOX PREMIUM FAMILY
 #EXTGRP:unsorted
-http://zufreelist.net:8080/zutvondemannueva/Kl1F5AGT6C/472
+http://ingrid.ltd:25461/Gilberto1/Gilberto/19452
 #EXTINF:0,FOX PREMIUM COMEDY
 #EXTGRP:unsorted
-http://ingrid.ltd:25461/Gilberto1/Gilberto/19457
+http://ingrid.ltd:25461/Gilberto1/Gilberto/39893
 #EXTINF:0,FOX PREMIUM SERIES
 #EXTGRP:unsorted
-http://ingrid.ltd:25461/Gilberto1/Gilberto/19693
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2224
 #EXTINF:0,FOX PREMIUM ACTION
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8466
@@ -394,19 +472,22 @@ http://ingrid.ltd:25461/Gilberto1/Gilberto/3350
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/827
 #EXTINF:0,HBO 2
 #EXTGRP:unsorted
-http://zufreelist.net:8080/zutvondemannueva/Kl1F5AGT6C/483
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7499
+#EXTINF:0,HBO Mundi
+#EXTGRP:unsorted
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8526
 #EXTINF:0,HBO POP
 #EXTGRP:unsorted
 http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8525
 #EXTINF:0,HBO Family
 #EXTGRP:unsorted
-http://zufreelist.net:8080/zutvondemannueva/Kl1F5AGT6C/480
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/825
 #EXTINF:0,HBO Plus
 #EXTGRP:unsorted
-http://zufreelist.net:8080/zutvondemannueva/Kl1F5AGT6C/482
+http://ingrid.ltd:25461/Gilberto1/Gilberto/31601
 #EXTINF:0,HBO Xtreme
 #EXTGRP:unsorted
-http://ingrid.ltd:25461/Gilberto1/Gilberto/19430
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8524
 #EXTINF:0,LOS SIMPSONS
 #EXTGRP:unsorted
 http://zufreelist.net:8080/zutvondemannueva/Kl1F5AGT6C/207
